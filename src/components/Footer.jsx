@@ -20,7 +20,7 @@ const Footer = () => {
 //   }
 // `);
   return (
-    <footer className="mt-5 border-top">
+    <footer className="mt-20 border-top">
       <Container>
         <Row className="justify-content-center">
           
