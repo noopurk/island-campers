@@ -79,7 +79,7 @@ const Header = () => {
                 <Nav.Item>
                   <Nav.Link>
                     <Link to="about" className="nav-link">
-                      About Us
+                      About
                     </Link>
                   </Nav.Link>
                 </Nav.Item>
@@ -119,7 +119,7 @@ const Header = () => {
                 <Nav.Item>
                   <Nav.Link>
                     <Link to="contact" className="nav-link">
-                      Contact Us
+                      Contact
                     </Link>
                   </Nav.Link>
                 </Nav.Item>
