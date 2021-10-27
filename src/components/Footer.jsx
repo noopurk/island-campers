@@ -54,10 +54,10 @@ const Footer = () => {
             <h5>Follow Us</h5>
             <div className="mt-3">
             <span className="mr-2">
-                <a href="#"><img src={fb} alt="fb-icon" width="40" height="40" /></a>
+                <a href="https://www.facebook.com/Maui-4x4-Campers-101081179035044/"><img src={fb} alt="fb-icon" width="40" height="40" /></a>
                 </span>
             <span>
-                <a href="#"><img src={insta} alt="insta-icon" width="40" height="40"/></a>
+                <a href="https://www.instagram.com/maui4x4campers/"><img src={insta} alt="insta-icon" width="40" height="40"/></a>
                 </span>
             </div>
           </Col>
